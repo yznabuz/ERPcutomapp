@@ -115,7 +115,7 @@ app_license = "mit"
 # Override standard doctype classes
 
 # override_doctype_class = {
-#	"ToDo": "custom_app.overrides.CustomToDo"
+#     "Sales Order": "yzncutom.overrides.sales_order.Sales Order",
 # }
 
 # Document Events

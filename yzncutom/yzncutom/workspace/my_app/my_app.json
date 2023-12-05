@@ -1,0 +1,100 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"Cu5_XL4Qkm\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">My App</span>\",\"col\":12}},{\"id\":\"pPj5mJFB4A\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Motocycle Number\",\"col\":4}},{\"id\":\"JY0EmTOWkK\",\"type\":\"paragraph\",\"data\":{\"text\":\"INFO\",\"col\":12}},{\"id\":\"-akMDx3OgF\",\"type\":\"card\",\"data\":{\"card_name\":\"SetUp\",\"col\":4}},{\"id\":\"Jy09ExLT89\",\"type\":\"card\",\"data\":{\"card_name\":\"Report\",\"col\":4}}]",
+ "creation": "2023-11-28 12:38:44.216247",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "My App",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "SetUp",
+   "link_count": 3,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Motocycle",
+   "link_count": 0,
+   "link_to": "motocycle",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Motocycle Model",
+   "link_count": 0,
+   "link_to": "Motocycle Model",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Item request",
+   "link_count": 0,
+   "link_to": "Item request",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Exchange rate",
+   "link_count": 0,
+   "link_to": "Exchange rate",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Report",
+   "link_count": 1,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Item stock",
+   "link_count": 0,
+   "link_to": "Item stok",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2023-12-05 14:00:55.372964",
+ "modified_by": "Administrator",
+ "module": "yzncutom",
+ "name": "My App",
+ "number_cards": [
+  {
+   "label": "Motocycle Number",
+   "number_card_name": "Motocycle Number"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 2.0,
+ "shortcuts": [],
+ "title": "My App"
+}
