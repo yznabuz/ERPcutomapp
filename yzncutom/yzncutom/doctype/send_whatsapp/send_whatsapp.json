@@ -1,0 +1,54 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:WAP-{DD,MM,YYYY}-{###}",
+ "creation": "2023-12-06 09:51:07.471608",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "contacts_info",
+  "massage",
+  "send"
+ ],
+ "fields": [
+  {
+   "fieldname": "massage",
+   "fieldtype": "Text",
+   "label": "Massage"
+  },
+  {
+   "fieldname": "send",
+   "fieldtype": "Button",
+   "label": "Send"
+  },
+  {
+   "fieldname": "contacts_info",
+   "fieldtype": "Data",
+   "label": "Contacts Info"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "issingle": 1,
+ "links": [],
+ "modified": "2023-12-06 10:49:38.233338",
+ "modified_by": "Administrator",
+ "module": "yzncutom",
+ "name": "Send Whatsapp",
+ "naming_rule": "Expression (old style)",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
