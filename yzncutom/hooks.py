@@ -114,9 +114,9 @@ doctype_js = {"Sales Order" : "public/js/sales_order.js"}
 # ---------------
 # Override standard doctype classes
 
-# override_doctype_class = {
-#     "Sales Order": "yzncutom.overrides.sales_order.Sales Order",
-# }
+override_doctype_class = {
+    "Employee Checkin": "yzncutom.overrides.employee_chekin.customEmployeeChekin",
+}
 
 # Document Events
 # ---------------

@@ -22,6 +22,7 @@
    "label": "Send"
   },
   {
+   "description": "Country code + your number example (9665********)",
    "fieldname": "contacts_info",
    "fieldtype": "Data",
    "label": "Contacts Info"
@@ -30,7 +31,7 @@
  "index_web_pages_for_search": 1,
  "issingle": 1,
  "links": [],
- "modified": "2023-12-06 10:49:38.233338",
+ "modified": "2023-12-10 11:30:45.644195",
  "modified_by": "Administrator",
  "module": "yzncutom",
  "name": "Send Whatsapp",

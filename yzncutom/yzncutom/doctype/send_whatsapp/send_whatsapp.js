@@ -10,7 +10,7 @@ frappe.ui.form.on("Send Whatsapp", {
                 "Content-Type": "application/json",
             },
             body: JSON.stringify({
-                to_number: frm.doc.contacts_info,
+                to_number: frm.doc.contacts_info.replace(/\s+/g, ''),
                 type: "text",
                 message: frm.doc.massage,
             }),
